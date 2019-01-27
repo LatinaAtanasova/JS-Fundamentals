@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68cc26eb-246b-47fe-8e09-5ac2bee202a9" name="Default Changelist" comment="" />
+    <list default="true" id="68cc26eb-246b-47fe-8e09-5ac2bee202a9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Table-Search-Engine/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/07_Table-Search-Engine/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCTIONS AND LOGIC FLOW/Lab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../FUNCTIONS AND LOGIC FLOW/Lab/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCTIONS AND LOGIC FLOW/Lab/02_Temperature-Converter/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../FUNCTIONS AND LOGIC FLOW/Lab/02_Temperature-Converter/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCTIONS AND LOGIC FLOW/Lab/05_Special-Words/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../FUNCTIONS AND LOGIC FLOW/Lab/05_Special-Words/solution.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,26 +18,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/09_Virus-Installer/solution.js">
+        <entry file="file://$PROJECT_DIR$/07_Table-Search-Engine/solution.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-21">
-              <caret line="34" column="50" lean-forward="true" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
+            <state relative-caret-position="459">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/09_Virus-Installer/template.html">
+        <entry file="file://$PROJECT_DIR$/07_Table-Search-Engine/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="40" column="33" lean-forward="true" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+            <state relative-caret-position="-72">
+              <caret line="31" column="58" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="58" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -42,9 +51,9 @@
         <option value="$PROJECT_DIR$/04_Locked-Profile/solution.js" />
         <option value="$PROJECT_DIR$/05_Number-Convertor/solution.js" />
         <option value="$PROJECT_DIR$/06_SoftUni-Quizz/solution.js" />
-        <option value="$PROJECT_DIR$/07_Table-Search-Engine/solution.js" />
         <option value="$PROJECT_DIR$/08_Toto-Numbers/solution.js" />
         <option value="$PROJECT_DIR$/09_Virus-Installer/solution.js" />
+        <option value="$PROJECT_DIR$/07_Table-Search-Engine/solution.js" />
       </list>
     </option>
   </component>
@@ -54,6 +63,7 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -66,6 +76,11 @@
             <path>
               <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="07_Table-Search-Engine" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -128,23 +143,20 @@
       <option name="presentableId" value="Default" />
       <updated>1548187712660</updated>
       <workItem from="1548187715719" duration="44952000" />
+      <workItem from="1548607950014" duration="1133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44952000" />
+    <option name="totallyTimeSpent" value="46085000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12872024" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -152,6 +164,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -166,7 +182,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/09_Virus-Installer/solution.js</url>
           <line>22</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
@@ -239,20 +254,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07_Table-Search-Engine/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="25" column="2" lean-forward="true" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_Table-Search-Engine/template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="31" column="58" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01_Cards/solution.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
@@ -277,13 +278,6 @@
     <entry file="file://$PROJECT_DIR$/08_Toto-Numbers/template.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/09_Virus-Installer/template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="40" column="33" lean-forward="true" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08_Toto-Numbers/solution.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
@@ -293,8 +287,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/09_Virus-Installer/solution.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-21">
-          <caret line="34" column="50" lean-forward="true" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
+        <state relative-caret-position="17">
+          <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_Virus-Installer/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_Table-Search-Engine/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="31" column="58" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_Table-Search-Engine/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>

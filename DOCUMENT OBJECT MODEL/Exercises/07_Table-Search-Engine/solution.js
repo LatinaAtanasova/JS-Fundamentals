@@ -8,6 +8,7 @@ function solve() {
 
 
         let fields = Array.from(document.getElementsByTagName('td'));
+        Array.from(document.getElementsByTagName('td')).forEach( x=> x.parentElement.removeAttribute('class'));
         for (let i = 0; i < fields.length; i++) {
 
             let expression = document.getElementById('searchField').value;
@@ -23,4 +24,6 @@ function solve() {
         document.getElementById('searchField').value = "";
 
     });
+
+
 };
