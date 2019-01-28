@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4ec55ff-68cd-4362-9941-b9b371cbe301" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../DOCUMENT OBJECT MODEL/Exercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DOCUMENT OBJECT MODEL/Exercises/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DOCUMENT OBJECT MODEL/Exercises/07_Table-Search-Engine/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../DOCUMENT OBJECT MODEL/Exercises/07_Table-Search-Engine/solution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab/02_Temperature-Converter/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab/02_Temperature-Converter/solution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab/05_Special-Words/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab/05_Special-Words/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_EGN-Validator/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/03_EGN-Validator/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Cooking-Numbers/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/04_Cooking-Numbers/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Cards-Generator/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/05_Cards-Generator/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_Greatest-Common-Divisor/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/06_Greatest-Common-Divisor/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Binary-Search/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/07_Binary-Search/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_Hailstone-Sequence/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/08_Hailstone-Sequence/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_Dot-Product/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/09_Dot-Product/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_Factors/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/10_Factors/solution.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,14 +22,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_EGN-Validator/solution.js">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/09_Dot-Product/solution.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03_EGN-Validator/template.html">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09_Dot-Product/template.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="28" column="47" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="47" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -39,6 +50,14 @@
       <list>
         <option value="$PROJECT_DIR$/01_Leap-Year/solution.js" />
         <option value="$PROJECT_DIR$/02_Simple-Number-Validator/solution.js" />
+        <option value="$PROJECT_DIR$/03_EGN-Validator/solution.js" />
+        <option value="$PROJECT_DIR$/04_Cooking-Numbers/solution.js" />
+        <option value="$PROJECT_DIR$/05_Cards-Generator/solution.js" />
+        <option value="$PROJECT_DIR$/06_Greatest-Common-Divisor/solution.js" />
+        <option value="$PROJECT_DIR$/08_Hailstone-Sequence/solution.js" />
+        <option value="$PROJECT_DIR$/10_Factors/solution.js" />
+        <option value="$PROJECT_DIR$/07_Binary-Search/solution.js" />
+        <option value="$PROJECT_DIR$/09_Dot-Product/solution.js" />
       </list>
     </option>
   </component>
@@ -66,6 +85,11 @@
               <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
               <item name="03_EGN-Validator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="09_Dot-Product" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -112,16 +136,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548609287396</updated>
-      <workItem from="1548609290606" duration="4974000" />
+      <workItem from="1548609290606" duration="29161000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4974000" />
+    <option name="totallyTimeSpent" value="29161000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -133,7 +156,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39934534" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.21767594" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -160,13 +183,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02_Simple-Number-Validator/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-end-line="32" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02_Simple-Number-Validator/template.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -174,11 +190,132 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/02_Simple-Number-Validator/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_Cooking-Numbers/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_Cooking-Numbers/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="31" column="38" lean-forward="true" selection-end-line="75" />
+          <folding>
+            <element signature="n#!!block;n#checkInput#0;n#!!block;n#solve#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/03_EGN-Validator/solution.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="38" lean-forward="true" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03_EGN-Validator/template.html">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="63" column="62" lean-forward="true" selection-start-line="63" selection-start-column="62" selection-end-line="63" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_Cards-Generator/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="36" column="30" lean-forward="true" selection-end-line="69" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_Cards-Generator/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="27" column="40" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="40" />
+          <folding>
+            <element signature="e#795#803#0" expanded="true" />
+            <element signature="e#848#856#0" expanded="true" />
+            <element signature="e#903#912#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_Greatest-Common-Divisor/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_Greatest-Common-Divisor/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="32" column="58" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_Hailstone-Sequence/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_Hailstone-Sequence/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_Factors/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="28" column="41" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_Factors/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="36" lean-forward="true" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_Binary-Search/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="43" lean-forward="true" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_Binary-Search/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="32" column="41" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_Dot-Product/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="28" column="47" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_Dot-Product/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
